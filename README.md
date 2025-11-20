@@ -100,6 +100,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
 
 ## 🔎 Visualization
+- [AlgoMaster DSA Animations](https://algomaster.io/animations/dsa)
 - [VisuAlgo](https://visualgo.net/en)
 - [Algo-lens: Visualize leetcode problems](https://github.com/jaroslaw-weber/algo-lens)
 
